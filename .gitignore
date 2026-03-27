@@ -1,3 +1,4 @@
-.env
 crash.journal
 .DS_Store
+
+.env
